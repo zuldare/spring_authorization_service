@@ -1,0 +1,1 @@
+https://www.adictosaltrabajo.com/2023/06/29/securizacion-aplicacion-oauth-2-spring-authorization-server-spring-resource-server/
