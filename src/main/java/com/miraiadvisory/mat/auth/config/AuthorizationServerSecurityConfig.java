@@ -87,6 +87,9 @@ public class AuthorizationServerSecurityConfig {
                 .authorizationGrantType(AuthorizationGrantType.AUTHORIZATION_CODE)
                 .authorizationGrantType(AuthorizationGrantType.REFRESH_TOKEN)
                 .redirectUri("https://oauthdebugger.com/debug") // ADD front?  http://127.0.0.1:4200
+
+                // .redirectUri("https://oauth.pstmn.io/v1/callback")  Authorize Postman
+            
                 .scope(OidcScopes.OPENID)
 
 
